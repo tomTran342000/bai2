@@ -1,0 +1,5 @@
+1. npm init -y
+2. npm start
+3. nodemon
+
+4. npm install express mongodb ejs
